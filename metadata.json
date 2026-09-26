@@ -1,0 +1,6 @@
+{
+  "name": "NadiBox - المتجر الإلكتروني الذكي",
+  "description": "منصة التجارة الإلكترونية الرسمية لـ NadiBox.ma لعرض المنتجات الذكية، تسهيل الدفع الآمن والسريع، وإدارة المخزون والطلبات باحترافية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
